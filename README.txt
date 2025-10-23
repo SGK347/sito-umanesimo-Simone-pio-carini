@@ -1,0 +1,1 @@
+Versione restaurata del sito 'L'Umanesimo e il Rinascimento' by Simone Pio Carini. Apri index.html con il browser. La galleria usa immagini da Wikimedia Commons (link nelle didascalie).
